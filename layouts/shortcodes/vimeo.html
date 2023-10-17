@@ -1,0 +1,10 @@
+{{ with .Get "id" }}
+  <iframe 
+    src="//player.vimeo.com/video/{{ . }}" 
+    width="640" height="512" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+  <p><a href="//vimeo.com/{{ . }}">View on Vimeo</a></p>
+{{ end }}

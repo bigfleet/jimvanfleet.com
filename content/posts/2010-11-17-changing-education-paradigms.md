@@ -8,11 +8,9 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _clicky_goal: a:2:{s:2:"id";s:0:"";s:5:"value";s:0:"";}
-  video-embed: <object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/zDZFcDGpL4U?fs=1&amp;hl=en_US"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/zDZFcDGpL4U?fs=1&amp;hl=en_US" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+Date: 2010-11-17
 ---
+
+{{<youtube zDZFcDGpL4U>}}
+
 A telling commentary on the state of our education systems.

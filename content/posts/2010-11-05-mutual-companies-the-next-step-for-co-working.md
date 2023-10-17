@@ -6,17 +6,6 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '3'
-  image: ''
-  quote-author: Unknown
-  quote-url: http://
-  quote-copy: Unknown
-  audio: http://
-  link-url: http://
-  seo_follow: 'false'
-  _clicky_goal: a:2:{s:2:"id";s:0:"";s:5:"value";s:0:"";}
-  _wp_old_slug: ''
 ---
 <p>Inspired by my friend <a href="http://socialmemorycomplex.net/2010/10/30/scaling-up-without-growing/">Jeremy's recent thoughts on co-working</a>, I wanted to take a moment to briefly outline my own thoughts on the benefits of co-working, and especially what I'd love to see from the trend.</p>
 
