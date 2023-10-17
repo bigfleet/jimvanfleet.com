@@ -3,16 +3,18 @@ layout: post
 title: Flying Robots!
 tags:
 - Tech
+- FutureRuby
 status: publish
 type: post
 published: true
 meta: {}
+Date: 2009-07-12
 ---
 Anyone who didn't like this talk must not have had a pulse.
 
 The "big idea" of the talk was doing open-source software development on an open-source hardware platform that does something cool!  Like flying a freaking blimp to The Flight of the Valkyries!
 
-<!--more--><a href="http://www.arduino.cc/en/Main/Software">Arduino development</a> (and in this case, <a href="http://diydrones.com/profiles/blog/show?id=705844%3ABlogPost%3A44817">BlimpDuino</a> development seems like the truest form of hackery possible to me, and I found it a thing of beauty.  As they don't appear on the official schedule, I may have gotten their names wrong, but I believe it's the Evans brothers put on quite the show.  It's clear they put a lot of time and love into the project.  And the end result is incredibly cool.
+[Arduino development](http://www.arduino.cc/en/Main/Software) (and in this case, [BlimpDuino](https://www.hackster.io/news/introducing-the-blimpduino-2-d551f4270084) development seems like the truest form of hackery possible to me, and I found it a thing of beauty.  As they don't appear on the official schedule, I may have gotten their names wrong, but I believe it's the Evans brothers put on quite the show.  It's clear they put a lot of time and love into the project.  And the end result is incredibly cool.
 
 When you are doing this kind of hacking, you'll run into problems that you might never expect.  For example, their blimp's engines both rotate in the same direction.  When the blimp is at full-forward, the torque itself actually steers the ship in the opposite direction to the rotation, and they've not been able to correct (or get an engine that rotates the opposite direction yet.)
 

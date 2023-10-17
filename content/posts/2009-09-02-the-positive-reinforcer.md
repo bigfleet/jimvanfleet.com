@@ -7,8 +7,11 @@ status: publish
 type: post
 published: true
 meta: {}
+Date: 2009-09-02
 ---
-<p><a href="http://www.savagechickens.com/2009/09/the-positive-reinforcer.html">The Positive Reinforcer</a>: "<p><img src="http://www.savagechickens.com/images/chickenmutants_reinforcer.jpg" alt="Savage Chickens - The Positive Reinforcer"></p>
-<p>More <a href="http://www.savagechickens.com/category/cartoons/useless_mutants">Useless Mutants</a>.</p>"</p>
 
-<p>(Via <a href="http://www.savagechickens.com/">Savage Chickens</a>.)</p>
+![The Positive Reinforcer](http://www.savagechickens.com/images/chickenmutants_reinforcer.jpg) 
+
+More [Useless Mutants](http://www.savagechickens.com/category/cartoons/useless_mutants)
+
+(Via [Savage Chickens](http://www.savagechickens.com/</a>.))

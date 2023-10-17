@@ -6,34 +6,30 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
+Date: 2009-06-28
 ---
 It's been bizarre to see Twitter become so popular so quickly.  I love its versatility and how it's helped me do a lot of different things in my professional and personal life.  For no particular reason I decided to take a month off to see what I missed, what I didn't, and anything else I might have noticed.
 
-<!--more--><h2>Things I missed.</h2>
-
-<ul>
-<li>Tweeting my frustrations with "the way things are"</li>
-<li>Questions my followers could help me with</li>
-<li>Talking about what I was listening to</li>
-<li>Complimenting <a href="http://twitter.com/blairblends">@blairblends</a> on his fab new avatar</li>
-<li>Announcements of big achievements (I had two!)</li>
-<li>Marking tweets as favorites.</li>
-<li>Reading tweets from friends</li>
-<li>Reading tweets from people who can teach me something I want to learn.</li>
-</ul>
-
-<h2>Things I did not miss</h2>
-<ul>
-<li><strong>The noise</strong></li>
-<li>Being among the first to know about scandals or deaths</li>
-<li>Green avatars</li>
-<li>Reading tweets from people I am trying to keep tabs on</li>
-</ul>
+## Things I missed.
 
 
-<h2>What Now?</h2>
+* Tweeting my frustrations with "the way things are"</li>
+* Questions my followers could help me with</li>
+* Talking about what I was listening to</li>
+* Complimenting <a href="http://twitter.com/blairblends">@blairblends</a> on his fab new avatar</li>
+* Announcements of big achievements (I had two!)</li>
+* Marking tweets as favorites.</li>
+* Reading tweets from friends</li>
+* Reading tweets from people who can teach me something I want to learn.</li>
+
+## Things I did not miss
+
+* *The noise*
+* Being among the first to know about scandals or deaths
+* Green avatars
+* Reading tweets from people I am trying to keep tabs on
+
+## What Now?
 
 I think it's time to focus a little bit more on the people who I like the most on Twitter.  This is going to mean unfollowing a lot of people I have been following for a long time.  It's going to mean unfollowing some people who follow me.  I'm OK with that.
 

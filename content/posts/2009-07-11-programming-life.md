@@ -3,12 +3,16 @@ layout: post
 title: Programming Life
 tags:
 - Tech
+- FutureRuby
 status: publish
 type: post
 published: true
 meta: {}
+Date: 2009-07-11
 ---
-If you think Windows and Mac and Solaris are different, look at the diversity that DNA engenders!<!--more-->Austin Che challenges us to look at DNA as a language.  In the same way that bits are the building blocks of computer languages, ATCG bases are the building blocks of natural language.  In the same way that the interpreter takes Ruby code and turns that into machine code, so that it can run on the CPU, RNA takes DNA and turns that into protein that can be used in a cell.
+If you think Windows and Mac and Solaris are different, look at the diversity that DNA engenders!
+
+Austin Che challenges us to look at DNA as a language.  In the same way that bits are the building blocks of computer languages, ATCG bases are the building blocks of natural language.  In the same way that the interpreter takes Ruby code and turns that into machine code, so that it can run on the CPU, RNA takes DNA and turns that into protein that can be used in a cell.
 
 I hope to god I can find his "Coding style" slide because it's a riot.
 
@@ -21,3 +25,5 @@ Where are we now?  We can make bacteria smell specific ways.  We can make them r
 There are such incredible challenges and amazing things happening in this field, that it is quite scary to me.  The end of the talk was about reconstructing the polio virus with off the shelf components.
 
 This is a real big thing, and I hope to update this post with some of my findings after the conference ends.  I found it incredibly interesting.
+
+(Ed. This work informed [Ginkgo Bioworks](https://www.ginkgobioworks.com/))

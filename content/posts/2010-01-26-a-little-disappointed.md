@@ -6,7 +6,7 @@ tags:
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '1'
+Date: 2010-01-26
 ---
-<script src="http://gist.github.com/286245.js"></script>
+
+{{<gist id="bigfleet/286245">}}
