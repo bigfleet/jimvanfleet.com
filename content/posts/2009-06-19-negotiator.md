@@ -7,8 +7,10 @@ status: publish
 type: post
 published: true
 meta: {}
+Date: 2009-06-19
 ---
-<p><a href="http://businessguysonbusinesstrips.com/?p=94">Negotiator</a>:  <img src="http://businessguysonbusinesstrips.com/art/negotiator.jpg" alt="" width="600" height="646" align="left" />
-</p>
+[Negotiator](http://businessguysonbusinesstrips.com/?p=94):
 
-<p>(Via <a href="http://businessguysonbusinesstrips.com">Business Guys on Business Trips (New every Monday!)</a>.)</p>
+![](https://businessguysonbusinesstrips.com/art/negotiator.jpg)
+
+(Via [Business Guys on Business Trips](http://businessguysonbusinesstrips.com)
