@@ -1,0 +1,40 @@
+baseURL = "https://jimvanfleet.com/"
+languageCode = "en-us"
+title = "Hello, I'm Jim Van Fleet"
+theme = "archie"
+copyright = "© Jim Van Fleet"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = 'G-Q9B8P5ECLG'
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/bigfleet"
+
+[[params.social]]
+name = "Mastodon"
+icon = "globe"
+url = "https://hachyderm.io/@bigfleet"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
