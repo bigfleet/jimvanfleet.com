@@ -19,6 +19,18 @@ name = "Mastodon"
 icon = "globe"
 url = "https://hachyderm.io/@bigfleet"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/jimvanfleet"
+
+[[params.social]]
+name = "Facebook"
+icon = "facebook"
+url = "https://www.facebook.com/bigfleet"
+
+
+
 [[menu.main]]
 name = "Home"
 url = "/"
