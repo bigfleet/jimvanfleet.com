@@ -7,7 +7,8 @@ type: post
 published: true
 meta: {}
 ---
-<p>Because it&#8217;s not like they ever <a href="http://www.schneier.com/blog/archives/2007/04/sponsoronly_sec.html">took hostages at an Olympic games</a>.</p>
+
+Because it's not like they ever [took hostages at an Olympic games](http://www.schneier.com/blog/archives/2007/04/sponsoronly_sec.html)
 
 
-	<p>(Via <a href="http://www.schneier.com/blog/">Schneier on Security</a>.)</p>
+(Via [Schneier on Security](http://www.schneier.com/blog/))

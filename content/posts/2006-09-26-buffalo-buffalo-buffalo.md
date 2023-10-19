@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Buffalo buffalo buffalo
-tags: []
+tags:
+- Links
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-09-26
 ---
-<p><a href="http://en.wikipedia.org/wiki/Buffalo_buffalo_buffalo_buffalo_buffalo_buffalo_buffalo_buffalo">Police police police police police police</a></p>
+[Police police police police police police](http://en.wikipedia.org/wiki/Buffalo_buffalo_buffalo_buffalo_buffalo_buffalo_buffalo_buffalo)

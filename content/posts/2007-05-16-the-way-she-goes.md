@@ -1,10 +1,13 @@
 ---
 layout: post
 title: The Way She Goes
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
 meta: {}
+Date: 2007-05-16
 ---
-<p>I am on the tarmac at <span class="caps">JFK</span>.  We&#8217;re on hour two of just sitting here and now it is really raining.  I wonder if we&#8217;ll get a letter from Delta?</p>
+
+I am on the tarmac at <span class="caps">JFK</span>.  We're on hour two of just sitting here and now it is really raining.  I wonder if we'll get a letter from Delta?

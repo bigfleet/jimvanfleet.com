@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Posting From MarsEdit
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2007-04-22
 ---
-<p>I&#8217;ve tried other Desktop posting clients in the past.  I have a feeling that this might be the first one that sticks.  This is a test post to see whether I&#8217;ve managed to hook everything up correctly.</p>
+I've tried other Desktop posting clients in the past.  I have a feeling that this might be the first one that sticks.  This is a test post to see whether I've managed to hook everything up correctly.
 
-
-	<p>It&#8217;s cool that I can also edit these posts in TextMate.</p>
+It's cool that I can also edit these posts in TextMate.
