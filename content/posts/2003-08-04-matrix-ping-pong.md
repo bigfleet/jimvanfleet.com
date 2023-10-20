@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Matrix Ping-Pong
-tags: []
+tags:
+- Humor
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2003-08-04
 ---
-<p>Check <a href="http://www.ntv.co.jp/channel/kasoh/kin10.html">this</a> out!  Also, lots of entries likely in the next 24-48 hours.</p>
+
+{{<youtube cqc4qKWxysk>}}
+

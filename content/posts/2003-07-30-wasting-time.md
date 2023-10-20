@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Wasting time...
-tags: []
+tags:
+- Personal
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2003-07-30
 ---
-<p>I&#8217;ve looked for Legend of the Red Dragon on line for a long time, having played it a great deal in <span class="caps">BBS</span>&#8217;es in high school.  Because I am a big dork, I remember getting my e-mail through them, eons ago.</p>
 
+I've looked for Legend of the Red Dragon on line for a long time, having played it a great deal in <span class="caps">BBS</span>&#8217;es in high school.  Because I am a big dork, I remember getting my e-mail through them, eons ago.
 
-	<p>At any rate, I <a href="http://klomdark.servebeer.com:8081/rotfoh/">found one</a> that works and works well!</p>
+At any rate, I <a href="http://klomdark.servebeer.com:8081/rotfoh/">found one</a> that works and works well! (ed. not anymore)
