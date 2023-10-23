@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Results Are In!
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-04-24
 ---
-<p>I&#8217;m <a title="OkCupid! The Boy Next Door" href="http://www.okcupid.com/personality?type=RGLD&#38;g=1&#38;o=1&#38;h=198">OkCupid! The Boy Next Door</a>.</p>
+[OkCupid! The Boy Next Door](https://nekrolemur.livejournal.com/121318.html)
 
-
-	<p>They say I&#8217;m likely to &#8220;evolve&#8221; over time.  How insightful.</p>
+They say I'm likely to "evolve" over time.  How insightful.

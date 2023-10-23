@@ -1,13 +1,13 @@
 ---
 layout: post
 title: IBM DeveloperWorks
-tags: []
+tags:
+- Developer
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-04-15
 ---
-<p><a title="developerWorks : Java technology" href="http://www-136.ibm.com/developerworks/java/">developerWorks : Java technology</a></p>
+[developerWorks : Java technology](https://developer.ibm.com/languages/java/)
 
-
-	<p>I attended a vendor presentation from <span class="caps">IBM</span> awhile ago, and it went really well.  I happened upon this site for another reason and figured I&#8217;d throw it up here.</p>
+I attended a vendor presentation from <span class="caps">IBM</span> awhile ago, and it went really well.  I happened upon this site for another reason and figured I'd throw it up here.

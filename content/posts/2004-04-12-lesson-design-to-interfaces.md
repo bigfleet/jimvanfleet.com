@@ -1,11 +1,12 @@
 ---
 layout: post
 title: ! 'Lesson: Design to Interfaces'
-tags: []
+tags:
+- Development
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-04-12
 ---
 <iframe style="float:right" marginwidth="0" marginheight="0"  scrolling="no" frameborder="2" width="120" height="150" src="http://rcm.amazon.com/e/cm?o=1&#38;l=as1&#38;f=ifr&#38;t=jimvanfleetco-20&#38;dev-t=D68HUNXKLHS4J&#38;p=6&#38;asins=0764543857&#38;bg1=ffffff&#38;fc1=000000&#38;lc1=6633ff&#38;lt1=_blank"><map NAME="boxmap-p6"><area SHAPE="RECT" COORDS="1, 140, 83, 150" HREF="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" ><area COORDS="0,0,10000,10000" HREF="http://www.amazon.com/exec/obidos/redirect-home/jimvanfleetco-20" ></map><img src="http://rcm-images.amazon.com/images/G/01/rcm/120x150.gif" width="120" height="150" border="0" usemap="#boxmap-p6" alt="Shop at Amazon.com"></iframe>
 

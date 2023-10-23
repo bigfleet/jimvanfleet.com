@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ! 'Exercise in Patterns: Decorated Commands'
-tags: []
+tags:
+- Development
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-04-14
 ---
-<p><a title="Let decorated Commands take over" href="http://www.javaworld.com/javaworld/jw-04-2004/jw-0412-deccommand.html">Let decorated Commands take over</a></p>
+[Let decorated Commands take over](https://www.infoworld.com/article/2072347/let-decorated-commands-take-over.html)
 
-
-	<p>I actually don&#8217;t have much to say beyond &#8220;add this to your bag of tricks.&#8221;</p>
+I actually don't have much to say beyond "add this to your bag of tricks."</p>

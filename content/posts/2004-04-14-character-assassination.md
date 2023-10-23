@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Character Assassination
-tags: []
+tags:
+- Development
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-04-14
 ---
-<p><a title="A tutorial on character code issues" href="http://www.cs.tut.fi/~jkorpela/chars.html#latin1">A tutorial on character code issues</a></p>
+[A tutorial on character code issues](https://jkorpela.fi/chars.html)
 
-
-	<p>This turned out to be a nasty issue for me in a couple of ways.  I will now light myself on fire.</p>
+This turned out to be a nasty issue for me in a couple of ways.  I will now light myself on fire.

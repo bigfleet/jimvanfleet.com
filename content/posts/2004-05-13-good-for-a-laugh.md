@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Good For a Laugh
-tags: []
+tags:
+- Development
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-05-13
 ---
-<p>I don&#8217;t even know C++ and <a title="Joel on Software - Thursday, March 25, 2004" href="http://www.joelonsoftware.com/items/2004/03/25.html">this</a> is funny.</p>
 
+I don't even know C++ and [this](http://www.joelonsoftware.com/items/2004/03/25.html) is funny.</p>
 
-	<p>Also, that&#8217;s a great blog.</p>
+Also, that's a great blog.
