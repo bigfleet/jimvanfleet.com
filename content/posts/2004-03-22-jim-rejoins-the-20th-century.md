@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Jim Rejoins the 20th century.
-tags: []
+tags:
+- Personal
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-03-22
 ---
-<p>I&#8217;ve found a free IM client that does what I want:  all the IM protocols.  It&#8217;s called Miranda, you can get it from SourceForge, if you want.</p>
 
+I've found a free IM client that does what I want:  all the IM protocols.  It's called Miranda, you can get it from SourceForge, if you want.
 
-	<p><span class="caps">ICQ</span>: 1033620
-<span class="caps">AOL</span>: sndbommin</p>
+<span class="caps">ICQ</span>: 1033620
+<span class="caps">AOL</span>: sndbommin
 
-
-	<p>Add me, since I have no idea what your names are.</p>
+Add me, since I have no idea what your names are.

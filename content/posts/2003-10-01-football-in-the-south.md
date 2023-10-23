@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Football In The South
-tags: []
+tags:
+- Sports
+- Culture
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2003-10-01
 ---
-<p>That&#8217;s <i>seriously</i>, <a href="http://sports.espn.go.com/ncf/news/story?id=1626939">we take football <i>seriously</i> in the South</a>.</p>
+That's _seriously_, [we take football _seriously_ in the South](http://sports.espn.go.com/ncf/news/story?id=1626939).

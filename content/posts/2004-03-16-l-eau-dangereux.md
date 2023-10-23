@@ -1,10 +1,11 @@
 ---
 layout: post
 title: L'Eau Dangereux
-tags: []
+tags:
+- Humor
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-03-16
 ---
-<p>I <a href="http://slashdot.org/article.pl?sid=04/03/16/1419252&#38;mode=thread&#38;tid=133&#38;tid=186"> can&#8217;t believe this one</a>.</p>
+[Hard to believe this one.](https://slashdot.org/story/04/03/16/1419252/city-officials-almost-ban-foam-cups)

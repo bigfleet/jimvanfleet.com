@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Back In Effect
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2003-11-06
 ---
-<p>So, I&#8217;m back from Maryville.  It was a great trip.  I had a blast hanging out with Jess and Jenn.  I can tell Jenn appreciated my visit because she must have thanked me fifteen times on the ride back from a party on Saturday night.  If you&#8217;re reading this, really, it was my pleasure.</p>
+So, I'm back from Maryville.  It was a great trip.  I had a blast hanging out with Jess and Jenn.  I can tell Jenn appreciated my visit because she must have thanked me fifteen times on the ride back from a party on Saturday night.  If you're reading this, really, it was my pleasure.
 
-
-	<p>I&#8217;m planning on getting back sometime between Thanksgiving and Christmas.  I&#8217;d love to go down every weekend, but looks like I&#8217;ll have to work on some of them coming up!</p>
+I'm planning on getting back sometime between Thanksgiving and Christmas.  I'd love to go down every weekend, but looks like I'll have to work on some of them coming up!
