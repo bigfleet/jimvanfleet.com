@@ -29,7 +29,15 @@ name = "Facebook"
 icon = "facebook"
 url = "https://www.facebook.com/bigfleet"
 
+[[params.social]]
+name = "Letterboxd"
+icon = "film"
+url = "https://letterboxd.com/bigfleet/"
 
+[[params.social]]
+name = "Pinboard"
+icon = "link"
+url = "https://pinboard.in/u:bigfleet/"
 
 [[menu.main]]
 name = "Home"
