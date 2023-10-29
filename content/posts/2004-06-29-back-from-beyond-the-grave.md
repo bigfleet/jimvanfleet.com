@@ -1,28 +1,29 @@
 ---
 layout: post
 title: Back From Beyond the Grave
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-06-29
 ---
-<p>Yeah, I&#8217;m still kicking it.</p>
+Yeah, I'm still kicking it.
 
 
-	<p>The move is over, more or less.  I now live in <a href="http://www.fandistrict.org/">The Fan</a> in Richmond, VA.  It&#8217;s really very nice.  There&#8217;s folks of all ages, but everybody&#8217;s personable.  I live less then two blocks from three different restaurants, all of them good.  All of them are also bars.  It&#8217;s that kind of place.</p>
+The move is over, more or less.  I now live in [The Fan](http://www.fandistrict.org/) in Richmond, VA.  It's really very nice.  There's folks of all ages, but everybody's personable.  I live less then two blocks from three different restaurants, all of them good.  All of them are also bars.  It's that kind of place.
 
 
-	<p>I live in a very old house, it&#8217;ll be 100 next year.  That has its own quirks, but mostly it&#8217;s a nice change of pace from the sterile Brompton Court apartments.  I am the closest to a laundry room I&#8217;ve ever been.  No dishwasher, though.  With the amount of cooking I do, however, that&#8217;s not a huge sacrifice.</p>
+I live in a very old house, it'll be 100 next year.  That has its own quirks, but mostly it's a nice change of pace from the sterile Brompton Court apartments.  I am the closest to a laundry room I've ever been.  No dishwasher, though.  With the amount of cooking I do, however, that's not a huge sacrifice.
 
 
-	<p>My project has been running for almost a week with no real hiccups.  That&#8217;s pretty gratifying.</p>
+My project has been running for almost a week with no real hiccups.  That's pretty gratifying.
 
 
-	<p>My friendship with Elizabeth is turning into something a little new for me, not that it&#8217;s any of your business.  ;-)</p>
+My friendship with Elizabeth is turning into something a little new for me, not that it's any of your business.  ;-)
 
 
-	<p>I&#8217;m getting ready to visit Brady this weekend down in South Carolina.  That&#8217;s going to be a lot of fun.</p>
+I'm getting ready to visit Brady this weekend down in South Carolina.  That's going to be a lot of fun.
 
 
-	<p>Mostly, I&#8217;m hoping to start writing more frequently.  Not the first time you&#8217;ve heard me say that, though, right?</p>
+Mostly, I'm hoping to start writing more frequently.  Not the first time you've heard me say that, though, right?

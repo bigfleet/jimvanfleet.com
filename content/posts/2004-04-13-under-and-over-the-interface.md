@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Under and Over The Interface
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-02-04
 ---
-<p><a title="James Gosling: on the Java road..." href="http://today.java.net/jag/page7.html#59">James Gosling: on the Java road&#8230;</a></p>
+James Gosling: on the Java road
 
+This is the most rational rebuttal to a one of the "Free Software" camp I've ever seen.  This kind of tension is hard to handle as a community; it simply helps to have a coherent, dependable group at the helm.  Not that I've ever helmed a software development of that size, but I've led pretty big projects of other kinds.  Sometimes committees don't work.
 
-	<p>This is the most rational rebuttal to a one of the &#8220;Free Software&#8221; camp I&#8217;ve ever seen.  This kind of tension is hard to handle as a community; it simply helps to have a coherent, dependable group at the helm.  Not that I&#8217;ve ever helmed a software development of that size, but I&#8217;ve led pretty big projects of other kinds.  Sometimes committees don&#8217;t work.</p>
+(ed: nothing of the position paper I imply exists here is still online for me to find, Sun having been eaten by Oracle long ago.  Here is a somewhat contemporaneous [interview of James Gosling](https://www.computerworld.com/article/2570641/q-a--james-gosling-likes-the-idea-of-open-source-java.html)) on the matter.

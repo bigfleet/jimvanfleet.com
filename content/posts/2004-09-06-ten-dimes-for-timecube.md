@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Ten Dimes For TimeCube
-tags: []
+tags:
+- Culture
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-09-06
 ---
-<p>For those of you who have never stumbled across it, I present <a title="Time Cube" href="http://timecube.com/">Time Cube</a>.</p>
+For those of you who have never stumbled across it, I present [Time Cube](https://en.wikipedia.org/wiki/Time_Cube).

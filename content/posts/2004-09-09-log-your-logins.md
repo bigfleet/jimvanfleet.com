@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Log Your Logins
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-09-09
 ---
-<p>Keep track of who&#8217;s logging into the system and when somehow.  You may think, &#8220;How trivial!&#8221; but it will really make a difference when you&#8217;ve got hundreds of people visiting the site every day and a user writes in to complain about a problem three days ago.</p>
+
+Keep track of who's logging into the system and when somehow.  You may think, "How trivial!" but it will really make a difference when you've got hundreds of people visiting the site every day and a user writes in to complain about a problem three days ago.

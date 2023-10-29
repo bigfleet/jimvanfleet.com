@@ -1,13 +1,14 @@
 ---
 layout: post
 title: OKCupid steps up.
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-08-08
 ---
-<p>For those of you out there who are still single, or even if you aren&#8217;t, <a href="http://www.okcupid.com">OK Cupid</a> is attempting to pull one over on  <a href="www.friendster.com">Friendster</a>.  It&#8217;s already far superior as a dating site, and now they&#8217;ve added the <a href="http://us.imdb.com/title/tt0108149/">Six Degrees</a> <a href="http://aries.mos.org/sixdegrees/">of Separation</a> factor for participants.</p>
+For those of you out there who are still single, or even if you aren't, [OK Cupid](ttp://www.okcupid.com) is attempting to pull one over on  Friendster.  It's already far superior as a dating site, and now they've added the [Six Degrees](https://www.imdb.com/title/tt0108149/) [of Separation](https://hbr.org/2003/02/the-science-behind-six-degrees) factor for participants.
 
 
-	<p>So I&#8217;m inviting everyone to come open an account and let me add you as a real friend.  I guarantee that they are better then Friendster.</p>
+So I'm inviting everyone to come open an account and let me add you as a real friend.  I guarantee that they are better then Friendster.

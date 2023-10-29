@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Quote of the Minute
-tags: []
+tags:
+- Quotes
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-09-19
 ---
-<p>Man knows no Master save creating <span class="caps">HEAVEN</span>, Or those whom Choice and common Good ordain.—THOMSON.</p>
+> Man knows no Master save creating HEAVEN, Or those whom Choice and common Good ordain.—THOMSON.
+
+-- appearing in Thomas Paine's [Common Sense](https://thomaspaine.org/works/major-works/common-sense.html)
