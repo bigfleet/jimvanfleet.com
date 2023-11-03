@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Google From Your Cell
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-10-07
 ---
-<p>You can now use <a title="Google SMS" href="http://www.google.com/sms/index.html">Google <span class="caps">SMS</span></a> to have Google response to text messages from your cell phone.  This is <span class="caps">SUPER</span> great.</p>
+You can now use [Google <span class="caps">SMS</span>](http://www.google.com/sms/index.html) to have Google response to text messages from your cell phone.  This is <span class="caps">SUPER</span> great.

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Interesting Link
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-09-27
 ---
-<p>As of now, this <a href="http://kasparov.skife.org/blog/">blog</a> mentions two interesting things.  First, getting started with Ruby on Rails.  Second, using Lucene.</p>
+As of now, this [blog](http://kasparov.skife.org/blog/src/ruby/ferret.html) mentions two interesting things.  First, getting started with Ruby on Rails.  Second, using Lucene.

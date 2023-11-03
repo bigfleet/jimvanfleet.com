@@ -6,7 +6,7 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-70-24
 ---
 I was watching the 2004 World Series of Poker last night, and they had a bio on [Joe Awada](https://en.wikipedia.org/wiki/Joe_Awada), a player born in Lebanon who emigrated here.
 

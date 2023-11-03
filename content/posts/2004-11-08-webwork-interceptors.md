@@ -1,10 +1,11 @@
 ---
 layout: post
 title: WebWork Interceptors
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-11-08
 ---
-<p>Here are some <a title="appfuse: Version control: CVS" href="https://appfuse.dev.java.net/source/browse/appfuse/extras/webwork/src/web/org/appfuse/webapp/interceptor/#dirlist">WebWork interceptors</a> that Matt Raible prepared for use with his Equinox application.</p>
+Matt Raible delivered a great talk about Java web frameworks [at ApacheCon](http://people.apache.org/~jim/ApacheCons/ApacheCon2004/pdf/MO07.pdf).
