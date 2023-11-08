@@ -12,4 +12,4 @@ Date: 2004-12-21
 
 As a devoted [Eclipse](http://www.eclipse.org) user, I found it useful to go to the [Subclipse](https://marketplace.eclipse.org/content/subclipse) update site.
 
-From there, it was no problem at all to get set up!  When combined with the upcoming [Subversion book](https://pragprog.com/titles/pg_svn/pragmatic-guide-to-subversion/) from the [Pragmatic Programmers](http://www.pragmaticprogrammer.com/), it looks like Subversion has now earned its stripes.</p>
+From there, it was no problem at all to get set up!  When combined with the upcoming [Subversion book](https://pragprog.com/titles/pg_svn/pragmatic-guide-to-subversion/) from the [Pragmatic Programmers](http://www.pragmaticprogrammer.com/), it looks like Subversion has now earned its stripes.

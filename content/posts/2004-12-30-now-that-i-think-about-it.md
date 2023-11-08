@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Now That I Think About It...
-tags: []
+tags:
+- Tech
+- Humor
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-12-30
 ---
-<p>Maybe it&#8217;s too much of an inside joke.  Maybe you get it, though.  Anyway, I thought it was hilarious.</p>
+Maybe it's too much of an inside joke.  Maybe you get it, though.  Anyway, I thought it was hilarious.
 
-
-	<p><a title="Software is too expensive to build cheaply...: If Architects Had To Work Like Web Designers..." href="http://twasink.net/blog/archives/2004/10/if_architects_h.html">Software is too expensive to build cheaply&#8230;: If Architects Had To Work Like Web Designers&#8230;</a></p>
+[Software is too expensive to build cheaply: If Architects Had To Work Like Web Designers](http://twasink.net/blog/archives/2004/10/if_architects_h.html)

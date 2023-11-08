@@ -7,7 +7,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2009-07-12
 ---
 Anyone who didn't like this talk must not have had a pulse.

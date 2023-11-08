@@ -7,7 +7,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2009-07-11
 ---
 This was a great presentation by Foy Savas that was very engaging.  You'll want to see the tape if that ever circulates rather than reading any review.  That said, here it is.

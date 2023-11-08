@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Nifty T-Shirts!
-tags: []
+tags:
+- Culture
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-01-05
 ---
-<p><a title="Preshrunk" href="http://preshrunk.info/">Preshrunk</a> is a t-shirt blog.  It&#8217;s got links to shirts with great style!</p>
+[Preshrunk](http://preshrunk.info/) is a t-shirt blog.  It's got links to shirts with great style!
 
 
-	<p>Even if you don&#8217;t think I have good taste, I can recognize it.</p>
+Even if you don't think I have good taste, I can recognize it.

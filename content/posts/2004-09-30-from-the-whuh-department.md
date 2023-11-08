@@ -1,13 +1,13 @@
 ---
 layout: post
 title: From the WHUH? department
-tags: []
+tags:
+- Sports
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2004-09-30
 ---
-<p><a title="ESPN.com - MLB - Pitcher shot, OK; cheerleader boots to thank" href="http://sports.espn.go.com/mlb/news/story?id=1891804"><span class="caps">ESPN</span>.com &#8211; <span class="caps">MLB</span> &#8211; Pitcher shot, OK; cheerleader boots to thank</a></p>
+[Pitcher shot, OK; cheerleader boots to thank](http://sports.espn.go.com/mlb/news/story?id=1891804)
 
-
-	<p>I think that says it all.</p>
+I think that says it all.

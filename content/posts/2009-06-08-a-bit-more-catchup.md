@@ -35,5 +35,5 @@ I spent a majority of my day today on my office.  The effect of having a real of
 
 ## Graves Festival
 
-<p>...namely, the mountains.  [Graves Mountain Festival of Music](https://gravesmountainmusic.com/) is where we go to hook up with Megan's friends from high school, who are now my friends as well.  It was a delightful time, and next year I'm committed to staying longer.  This trip was particularly satisfying since it was our first time back in three years.  We missed 2007 for our wedding and European vacation preparations, and we missed last year because of my bad back.
+...namely, the mountains.  [Graves Mountain Festival of Music](https://gravesmountainmusic.com/) is where we go to hook up with Megan's friends from high school, who are now my friends as well.  It was a delightful time, and next year I'm committed to staying longer.  This trip was particularly satisfying since it was our first time back in three years.  We missed 2007 for our wedding and European vacation preparations, and we missed last year because of my bad back.
 
