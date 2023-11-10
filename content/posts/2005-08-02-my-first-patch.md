@@ -1,16 +1,15 @@
 ---
 layout: post
 title: My First Patch
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-08-02
 ---
-<p>My first patch to an open source project is to WebWork for the <a title="[#WW-813] Make ExecuteAndWaitInterceptor easier to extend - OpenSymphony JIRA" href="http://jira.opensymphony.com/browse/WW-813">execute and wait interceptor.</a></p>
+My first patch to an open source project is to WebWork for the [execute and wait interceptor](https://code.google.com/archive/p/opensymphony-webwork-backup/source/default/commits?page=21).
 
+Raise your hands if you had that in the office pool.
 
-	<p>Raise your hands if you had that in the office pool.</p>
-
-
-	<p>If/when the patch is accepted, I&#8217;ll post my extension to the interceptor that will keep an open Hibernate session bound to the background process using Spring.</p>
+If/when the patch is accepted, I'll post my extension to the interceptor that will keep an open Hibernate session bound to the background process using Spring.

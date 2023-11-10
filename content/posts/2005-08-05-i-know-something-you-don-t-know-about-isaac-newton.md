@@ -1,10 +1,11 @@
 ---
 layout: post
 title: I Know Something You Don't Know About Isaac Newton
-tags: []
+tags:
+- History
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-08-05
 ---
-<p>Not only was he a cat owner, he <a title="Graham Glass, etc.: Fascinating Fact" href="http://grahamglass.blogs.com/main/2005/08/fascinating_fac.html">revolutionized cat ownership</a>.</p>
+Not only was he a cat owner, he [revolutionized cat ownership](http://grahamglass.blogs.com/main/2005/08/fascinating_fac.html).

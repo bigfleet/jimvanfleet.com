@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Watir, Watir Everywhere
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-06-16
 ---
-<p>After getting a link from <a href="http://blogs.pragprog.com/cgi-bin/pragdave.cgi/Tech/KneeTesting.rdoc">Dave Thomas</a>, I checked out the link below.  Following some leads from that blog, I uncovered <a title="Watir: Web Application Testing in Ruby" href="http://wtr.rubyforge.org/">Watir: Web Application Testing in Ruby</a>.  Watir is designed to drive Internet Explorer (yes, that Internet Explorer) using a Ruby script.</p>
+After getting a link from [Dave Thomas](https://pragdave.me/blog/2005/06/15/knee-testing.html), I checked out the link below.  Following some leads from that blog, I uncovered Watir: Web Application Testing in Ruby.  Watir is designed to drive Internet Explorer (yes, that Internet Explorer) using a Ruby script.
 
 
-	<p>This sounds like a dream addition to the testing stack.  Especially if this is a way to slip Ruby in the door.  Stay tuned for more details.</p>
+This sounds like a dream addition to the testing stack.  Especially if this is a way to slip Ruby in the door.  Stay tuned for more details.

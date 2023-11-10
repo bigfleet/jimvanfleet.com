@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Petals Around The Rose
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-03-13
 ---
-<p>I&#8217;m now a member of the Fraternity of <a title="Petals Around the Rose" href="http://crux.baker.edu/cdavis09/roses.html">Petals Around the Rose</a></p>
+I'm now a member of the Fellowship of [Petals Around the Rose](https://illuminations.nctm.org/lessons/petals/petals.htm)

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Politically Speaking
-tags: []
+tags:
+- Personal
+- Politics
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-05-31
 ---
-<p>Here&#8217;s the results of a <a title="Political Survey: Results" href="http://politics.beasts.org/scripts/results?surveyid=654960558">political survey</a> I took recently.</p>
+Here's the results of a [political survey](http://politics.beasts.org/scripts/results?surveyid=654960558) I took recently.

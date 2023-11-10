@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Functional Testing indeed
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-06-16
 ---
-<p><a title="Collaborative Software Testing: User Profiles and Exploratory Testing" href="http://www.kohl.ca/blog/archives/000104.html">Collaborative Software Testing: User Profiles and Exploratory Testing</a> outlines a test case I&#8217;d hate to run into.</p>
+[Collaborative Software Testing: User Profiles and Exploratory Testing](http://www.kohl.ca/2005/user-profiles-and-exploratory-testing/) outlines a test case I'd hate to run into.

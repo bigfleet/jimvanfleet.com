@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Microsoft's Guide To l33tspeak
-tags: []
+tags:
+- Tech
+- Culture
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-02-17
 ---
-<p>It&#8217;s like I asked the gods for some comedy and <a title="A parent's primer to computer slang" href="http://www.microsoft.com/athome/security/children/kidtalk.mspx">man did they deliver.</a></p>
+It's like I asked the gods for some comedy and [man did they deliver](https://www.jesperjuul.net/ludologist/2005/02/18/microsoft-a-parents-primer-to-computer-slang/).

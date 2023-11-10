@@ -1,13 +1,13 @@
 ---
 layout: post
 title: I Am Not A Sysadmin Type
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-03-15
 ---
-<p>... so it was especially gratifying to be able to contribute a <a href="http://wiki.rubyonrails.com/rails/show/RailsOnFedora">working set of installation instructions for Rails on Fedora Core 3</a>.</p>
+... so it was especially gratifying to be able to contribute a working set of installation instructions for Rails on Fedora Core 3.
 
-
-	<p>In other <a href="http://www.rubyonrails.com">Ruby on Rails</a> news, Dave Thomas will be giving a session on Rails at the upcoming <a href="http://www.nofluffjuststuff.com"><span class="caps">NFJS</span></a> conference in Reston.  I&#8217;ll be back for the third time in a row!</p>
+In other Ruby on Rails news, Dave Thomas will be giving a session on Rails at the upcoming [NFJS](http://www.nofluffjuststuff.com) conference in Reston.  I'll be back for the third time in a row!

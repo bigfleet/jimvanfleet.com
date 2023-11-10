@@ -1,13 +1,13 @@
 ---
 layout: post
 title: So, You Want To Learn Japanese?
-tags: []
+tags:
+- Humor
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-02-02
 ---
-<p><a title="So You Want To learn Japanese..." href="http://pepper.idge.net/japanese/">So You Want To learn Japanese&#8230;</a></p>
+[So You Want To learn Japanese](http://www.stmoroky.com/links/sywtlj.htm)
 
-
-	<p>Think again.</p>
+Think again.

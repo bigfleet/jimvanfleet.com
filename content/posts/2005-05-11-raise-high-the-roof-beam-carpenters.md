@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Raise High The Roof Beam, Carpenters
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-05-11
 ---
-<ul>
-<li>Research your state&#8217;s first-time homebuyer&#8217;s program</li>
-<li>Have the money</li>
-<li>Pick a realtor</li>
-<li>Get a feel for the market</li>
-<li>Go to open-houses without your realtor safely</li>
-<li>Learn the difference between a compromise you could make and one you couldn&#8217;t</li>
-<li>How to hurry</li>
-</ul>
+
+* Research your state's first-time homebuyer's program
+* Have the money
+* Pick a realtor
+* Get a feel for the market
+* Go to open-houses without your realtor safely
+* Learn the difference between a compromise you could make and one you couldn't
+* How to hurry
+

@@ -1,13 +1,15 @@
 ---
 layout: post
 title: JavaScript Money Format
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-03-28
 ---
-<p>Here is the <a title="The JavaScript Source: Forms: Currency Format" href="http://javascript.internet.com/forms/currency-format.html">money formatter for JavaScript</a> that I&#8217;m using on my current project.</p>
+Here is the money formatter for JavaScript that I'm using on my current project.
 
+I know I'm behind on my linkage, I promise to do better.
 
-	<p>I know I&#8217;m behind on my linkage, I promise to do better.</p>
+(ed note: gone-- maybe [this works](https://www.freecodecamp.org/news/how-to-format-number-as-currency-in-javascript-one-line-of-code/)-- i truly don't know.)

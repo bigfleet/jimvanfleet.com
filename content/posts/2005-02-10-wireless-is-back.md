@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Wireless is BACK.
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-02-10
 ---
-<p>After Megan got her new iBook, we were both interested in having wireless in the house.  Since my router has had a cold <em>or something</em> for months, I figured we&#8217;d try to move my router to her place, and I&#8217;d get a new one.  One that worked.</p>
+After Megan got her new iBook, we were both interested in having wireless in the house.  Since my router has had a cold _or something_ for months, I figured we'd try to move my router to her place, and I'd get a new one.  One that worked.
 
+It happened last night!  I checked my e-mail from my living room!  I love that.
 
-	<p>It happened last night!  I checked my e-mail from my living room!  I love that.</p>
-
-
-	<p>Also, there was apparently a piece on the Richmond evening news last night about <a href="http://en.wikipedia.org/wiki/Wardriving">war driving</a>.  I got an apparently useful wireless security system in place, thankfully.</p>
+Also, there was apparently a piece on the Richmond evening news last night about [war driving](http://en.wikipedia.org/wiki/Wardriving).  I got an apparently useful wireless security system in place, thankfully.

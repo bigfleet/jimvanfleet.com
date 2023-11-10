@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Interview With Erich Gamma
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-06-09
 ---
-<p>This is the third part of an <a title="Design Principles from Design Patterns" href="http://www.artima.com/lejava/articles/designprinciples.html">interview with Erich Gamma</a> where he discusses design principles.  The page itself contains links to the previous parts.</p>
+This is the third part of an [interview with Erich Gamma](http://www.artima.com/lejava/articles/designprinciples.html) where he discusses design principles.  The page itself contains links to the previous parts.

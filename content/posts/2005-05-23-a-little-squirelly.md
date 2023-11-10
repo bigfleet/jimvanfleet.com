@@ -1,11 +1,13 @@
 ---
 layout: post
 title: A little squirelly
-tags: []
+tags:
+- Culture
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-05-23
 ---
-<p>Check this out.
-<a title="jwz - science can be a bit squirrelly" href="http://www.livejournal.com/users/jwz/484167.html">Science can be a bit squirrelly</a></p>
+Check this out.
+
+[Science can be a bit squirrelly](https://www.jwz.org/blog/2005/05/science-can-be-a-bit-squirrelly/)
