@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Ruby and Google Maps
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-10-19
 ---
-<p>I&#8217;ve finished a non-trivial <a href="http://maps.google.com/">Google Maps</a> integration for one of my <a href="http://www.rubyonrails.com/">Rails</a> apps.</p>
+I've finished a non-trivial [Google Maps](http://maps.google.com/) integration for one of my [Rails](http://www.rubyonrails.com/) apps.
 
-
-	<p>No offense, but the <a href="http://rubyforge.org/projects/cartographer/">Cartographer</a> library has quite some way to go, but it was an excellent starting point.  I hope to be able to contribute some interesting functionality to it in the near-term future.</p>
+No offense, but the Cartographer library has quite some way to go, but it was an excellent starting point.  I hope to be able to contribute some interesting functionality to it in the near-term future.

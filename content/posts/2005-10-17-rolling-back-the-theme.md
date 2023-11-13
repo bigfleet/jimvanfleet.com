@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Rolling back the theme
-tags: []
+tags:
+- Blog
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-10-17
 ---
-<p>I&#8217;ve both updgraded the blog to run off <a href="http://typo.leetsoft.com/">Typo</a> trunk, and rolled back to the default theme.</p>
+I've both updgraded the blog to run off Typo `trunk`, and rolled back to the default theme.
 
-
-	<p>I am working on a theme that I&#8217;ll use for this blog, just in case the <a href="http://typogarden.com/">Typo theme contest</a> doesn&#8217;t turn up any that I think are awesome.  I&#8217;ve abandoned the notebook look for now.</p>
+I am working on a theme that I'll use for this blog, just in case the Typo theme contest doesn't turn up any that I think are awesome.  I've abandoned the notebook look for now.

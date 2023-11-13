@@ -1,19 +1,17 @@
 ---
 layout: post
 title: Did You Know?
-tags: []
+tags:
+- Politics
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-01-11
 ---
-<p>Normally this would be a linkroll post.  (Are you reading the linkroll?  Megan is!)  In this case, however, I&#8217;m going to make an exception.</p>
+Normally this would be a linkroll post.  (Are you reading the linkroll?  Megan is!)  In this case, however, I'm going to make an exception.
 
+Did you know that the United States [requires 2 billion dollars a day in foreign investment](https://delong.typepad.com/sdj/2006/01/chinas_reserve_.html)  to continue its current rate of capital consumption.  And that, for some reason, it's creditors are willing to put up with a relatively low interest rate *and* devaluation of the dollar on top?
 
-	<p>Did you know that the United States <a href="http://delong.typepad.com/sdj/2006/01/chinas_reserve_.html">requires 2 billion dollars a day in foreign investment</a>  to continue its current rate of capital consumption.  And that, for some reason, it&#8217;s creditors are willing to put up with a relatively low interest rate <strong>and</strong> devaluation of the dollar on top?</p>
+I don't read all the economics blogs, but I can tell you, not even they know what this means.
 
-
-	<p>I don&#8217;t read all the economics blogs, but I can tell you, not even they know what this means.</p>
-
-
-	<p>What I will say is that if you are typically inspired by the behavior of the US, go get that stove on credit!</p>
+What I will say is that if you are typically inspired by the behavior of the US, go get that stove on credit!

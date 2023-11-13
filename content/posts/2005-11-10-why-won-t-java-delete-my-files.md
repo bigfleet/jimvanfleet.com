@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Why Won't Java Delete My Files?
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-11-10
 ---
-<p>As Google reminded me, <a href="http://www.codecomments.com/Java_Help/message332999.html">close your I/O streams</a> if you&#8217;re unable to delete files that you&#8217;ve been working with.</p>
+As Google reminded me, close your I/O streams if you're unable to delete files that you've been working with.

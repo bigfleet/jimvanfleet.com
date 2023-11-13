@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blogging With Ecto
-tags: []
+tags:
+- Blog
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-09-07
 ---
-<p>Ecto has won the desktop blogging client tournament I&#8217;ve held by supporting most of the functionality I&#8217;d expect from such a client.</p>
+Ecto has won the desktop blogging client tournament I've held by supporting most of the functionality I'd expect from such a client.
 
-
-	<p>I&#8217;ll make sure to keep you updated with how it goes.</p>
+I'll make sure to keep you updated with how it goes.

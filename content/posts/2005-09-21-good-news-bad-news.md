@@ -1,22 +1,19 @@
 ---
 layout: post
 title: Good News, Bad News
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-09-21
 ---
-<p>The good news is that I&#8217;ve been offered a full-time position at <a href="http://www.dominion-medical.com/">the company I&#8217;ve been working for since Christmas</a>.</p>
+The good news is that I've been offered a full-time position at [the company I've been working for since Christmas](http://www.dominion-medical.com/).
 
+The bad news is that the salary they've offered represents a serious paycut (about 20%) of what they're currently paying me as a contractor.
 
-	<p>The bad news is that the salary they&#8217;ve offered represents a serious paycut (about 20%) of what they&#8217;re currently paying me as a contractor.</p>
+The benefits are good (perhaps very good), but I just don't know if the numbers work together.  Megan and I just did our budget, and it looks just right to me at my current salary.
 
+I am very nervous right now, but it's the good kind of nervous that comes with a big opportunity.
 
-	<p>The benefits are good (perhaps very good), but I just don&#8217;t know if the numbers work together.  Megan and I just did our budget, and it looks just right to me at my current salary.</p>
-
-
-	<p>I am very nervous right now, but it&#8217;s the good kind of nervous that comes with a big opportunity.</p>
-
-
-	<p>I&#8217;ll make sure to keep all of you up to date on what&#8217;s going on.</p>
+I'll make sure to keep all of you up to date on what's going on.

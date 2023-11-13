@@ -6,7 +6,7 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-06-03
 ---
 I have recently fallen in love with [Trac](http://projects.edgewall.com/trac/), as it combines a Wiki, an excellent bug tracker, some rudimentary project controls, and a source code browser into one package.
 

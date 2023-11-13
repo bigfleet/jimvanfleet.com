@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A Can't Miss Deal
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-09-05
 ---
-<p><a href="http://www.textdrive.com/">TextDrive</a> is offering another round of <a href="http://textdrive.com/vc3/">lifetime hosting sales</a>.  I participated in the second round (VCII) and couldn&#8217;t be more pleased with what I have received thus far, and it&#8217;s only been a few months.</p>
+[TextDrive](http://www.textdrive.com/) is offering another round of lifetime hosting sales.  I participated in the second round (VCII) and couldn't be more pleased with what I have received thus far, and it's only been a few months.
 
-
-	<p>TxD is improving very, very quickly, and they have some very visibly intelligent people working for them and affiliated with them.  I couldn&#8217;t recommend this deal more highly if you are in the market for hosting.</p>
+TxD is improving very, very quickly, and they have some very visibly intelligent people working for them and affiliated with them.  I couldn't recommend this deal more highly if you are in the market for hosting.

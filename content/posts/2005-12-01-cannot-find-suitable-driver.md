@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Cannot Find Suitable Driver?
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-12-01
 ---
-<code>java.sql.SQLException: No suitable driver</code>
+`java.sql.SQLException: No suitable driver`
 
-	<p>Before you drive yourself batty, double check your <span class="caps">JDBC URL</span> if you are trying to use Hibernate.  I would have spent another day trying to debug this one if I hadn&#8217;t spent a similar day last year.</p>
+Before you drive yourself batty, double check your <span class="caps">JDBC URL</span> if you are trying to use Hibernate.  I would have spent another day trying to debug this one if I hadn't spent a similar day last year.

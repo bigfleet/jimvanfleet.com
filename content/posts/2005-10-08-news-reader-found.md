@@ -1,10 +1,11 @@
 ---
 layout: post
 title: News Reader Found
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2005-10-08
 ---
-<p>I started using the <a href="http://www.jetbrains.com/omea/reader/">Omea News Reader</a> from JetBrains today, and I really liked how easy it was to process <a href="http://del.icio.us/bigfleet/blogroll?setcount=100">my blogroll</a> into a useable form.  I&#8217;ll keep you updated if there is better software for Windows, but this will definitely do for now!  I like it quite a bit.</p>
+I started using the [Omea News Reader](http://www.jetbrains.com/omea/reader/) from JetBrains today, and I really liked how easy it was to process my blogroll into a useable form.  I'll keep you updated if there is better software for Windows, but this will definitely do for now!  I like it quite a bit.
