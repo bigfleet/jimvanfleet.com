@@ -52,3 +52,9 @@ Likewise, any movie review would go to Letterboxd, or a music update might pass 
 The days of maximum speed and experimentation are over.  While the pace of change in the tech world won't slow, I suspect my own frontiers might be near their edges.  I stayed out in the field longer than most.  We'll see if I can make my recordings from the trenches valuable to a new generation.
 
 Combining the static-site capabilities directly inside themes, and content posts, I believe I understand how to properly express myself here.
+
+### Something to communicate
+
+I've been a father for many years.  Youth that enter my profession today remind myself of a former life and set of viewpoints.
+
+I lament the circular nature of 'progress' in my industry with some regularity.  It was especially troubling to see (for example) pre-cursors of [fake news](../2007-04-25-its-hip-to-be-wrong) and [Twitter's noise](../2009-06-28-my-twitter-vacation) not register as an old sentiment.
