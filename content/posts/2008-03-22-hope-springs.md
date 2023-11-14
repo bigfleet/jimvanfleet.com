@@ -6,6 +6,7 @@ tags:
 status: publish
 type: post
 published: true
+Date: 2008-03-22
 ---
 As I write this, with the late evening games of Round 1 yet to conclude, I stand tied for first in my bracket competition.  Come on, buckets, I could use the spare dough!  I am officially worried by the Clemson Tigers at this second, however.  A Tiger beats a Wildcat every time, though, so I am sure they'll pull through.  I don't care how feisty that Wildcat is.
 
