@@ -8,7 +8,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2007-07-11
 ---
 From the "Totally Believable Department"

@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Life's True Joys
-tags: []
+tags:
+- Personal
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-08-14
 ---
-<p>Calling people is taking absolutely <strong>forever</strong>, so for those who haven&#8217;t heard yet. Megan and I got engaged.  It&#8217;s getting to be so long since it happened that you&#8217;ll think I don&#8217;t care about you.</p>
+Calling people is taking absolutely *forever*, so for those who haven't heard yet. Megan and I got engaged.  It's getting to be so long since it happened that you'll think I don't care about you.
 
+It was on the first day of our beach vacation.  I hadn't been planning it, but we were walking along the beach, and some other folks were setting off fireworks.  I had been thinking for ages about all the things I wanted to do, like make sure that she'd love the location, and getting the perfect jewelry item.  I realized, though, that none of that mattered at all, really, and I should just ask her.  She said *yes!*
 
-	<p>It was on the first day of our beach vacation.  I hadn&#8217;t been planning it, but we were walking along the beach, and some other folks were setting off fireworks.  I had been thinking for ages about all the things I wanted to do, like make sure that she&#8217;d love the location, and getting the perfect jewelry item.  I realized, though, that none of that mattered at all, really, and I should just ask her.  She said <strong>yes!</strong></p>
-
-
-	<p>We haven&#8217;t set a date yet, although it&#8217;ll probably be fall of next year.  We&#8217;ve really just begun looking at locations, although Megan has apparently bought her dress already.</p>
+We haven't set a date yet, although it'll probably be fall of next year.  We've really just begun looking at locations, although Megan has apparently bought her dress already.

@@ -6,7 +6,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2009-03-25
 ---
 From the department of "no one could care less", I have switched the software that runs this blog from Mephisto to WordPress.  

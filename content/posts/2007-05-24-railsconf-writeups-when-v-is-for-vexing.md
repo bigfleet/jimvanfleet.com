@@ -1,11 +1,13 @@
 ---
 layout: post
 title: ! 'RailsConf Writeups: When V is for Vexing'
-tags: []
+tags:
+- RailsConf
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2007-05-24
 ---
 Put on by Bruce Williams and an uncredited [Marcel Molina, Jr.](http://marcelmolina.com/), this session proved to be one of the highlights of the conference for me personally.  My experience up to this point has led to a lot of time spent with <span class="caps">HTML</span> and <span class="caps">CSS</span> education-- thus I spend a lot of time working with those two technologies.  As a result, I've seen a lot of view code, and produce a lot of the code smells that they covered in the talk.
 

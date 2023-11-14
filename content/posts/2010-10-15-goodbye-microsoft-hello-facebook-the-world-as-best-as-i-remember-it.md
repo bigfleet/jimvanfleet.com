@@ -6,7 +6,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2010-10-15
 ---
 There is so much excellent content in this post that it's an injustice to just include a bit of it, but here it is anyway.</p>

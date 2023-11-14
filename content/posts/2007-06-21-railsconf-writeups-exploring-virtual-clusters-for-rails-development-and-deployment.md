@@ -8,7 +8,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2007-06-21
 ---
 Unfortunately for the fellow at [RailsMachine](http://www.railsmachine.com/), this talk is an area that I'm really trying to stay abreast of.  I historically have had very little money to spend on architecture, and the concept of virtualization has had a huge impact on my professional development.  As such, I thought that I would give some time to a practitioner in this space that wasn't Joyent

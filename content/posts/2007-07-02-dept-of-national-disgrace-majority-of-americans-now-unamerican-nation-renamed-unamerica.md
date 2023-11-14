@@ -7,7 +7,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2007-07-02
 ---
 

@@ -7,7 +7,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2009-07-11
 ---
 If you think Windows and Mac and Solaris are different, look at the diversity that DNA engenders!

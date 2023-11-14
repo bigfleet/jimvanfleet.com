@@ -6,7 +6,6 @@ tags:
 status: publish
 type: post
 published: true
-meta: {}
 Date: 2007-05-07
 ---
 [AlterNet](http://alternet.org/) brings us the story of a poetry professor in a small college in the Northeast who decides to recycle old manuscripts and becomes an object of suspicion.

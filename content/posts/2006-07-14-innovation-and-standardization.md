@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Innovation and Standardization
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-07-14
 ---
-<p>Is individual innovation the only way to the best sort of standardization?</p>
+Is individual innovation the only way to the best sort of standardization?
 
+* Sun treatment of <span class="caps">BSD</span> (before Linux)
+* Low margins on language invention
+* Design by committee
 
-	<ul>
-	<li>Sun treatment of <span class="caps">BSD</span> (before Linux)</li>
-		<li>Low margins on language invention</li>
-		<li>Design by committee</li>
-	</ul>
+(ed. note: this is pretty clearly a quarter-baked post, but the OAuth2 specification and the OpenID Connect amendment are pretty strong)

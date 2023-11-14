@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Ubuntu's First Brick Wall
-tags: []
+tags:
+- Tech
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-08-18
 ---
-<p><span class="caps">HFS</span> Plus and Linux are like oil and water apparently.  As a result, your iPod has to bind to a Windows machine rather than a Mac.</p>
+HFS Plus and Linux are like oil and water apparently.  As a result, your iPod has to bind to a Windows machine rather than a Mac.

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Upgraded to Typo 4.0
-tags: []
+tags:
+- Blog
 status: publish
 type: post
 published: true
-meta: {}
+Date: 2006-08-03
 ---
-<p>I upgraded the software that runs this blog in an effort to keep pages other than the main page up for a few hours at a time.  For those of you who may have visited recently and caught the very minimal look, that was because the stylesheets weren&#8217;t working.</p>
+I upgraded the software that runs this blog in an effort to keep pages other than the main page up for a few hours at a time.  For those of you who may have visited recently and caught the very minimal look, that was because the stylesheets weren't working.
 
-
-	<p>Commenting doesn&#8217;t work with my old theme, so it&#8217;s back to the default look for now.  I&#8217;ll try to find something soon, I don&#8217;t particularly care for this.</p>
+Commenting doesn't work with my old theme, so it's back to the default look for now.  I'll try to find something soon, I don't particularly care for this.
