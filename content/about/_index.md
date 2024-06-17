@@ -30,3 +30,5 @@ grateful.
 
 My wife Megan and I have had two sons.  One plays piano, and the other loves
 Pokemon cards.  We have three huskies.
+
+Learn more about me:
