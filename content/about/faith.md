@@ -1,21 +1,42 @@
 ---
 title: "Faith"
-date: 2024-06-10T09:58:32-04:00
-draft: true
+date: 2025-08-29T07:58:32-04:00
 ---
 
-## Doubt
+## A Letter to my Younger Self
 
-Faith and I were not a natural fit.
+Jim,
 
-In Sunday School, presented with the story of Noah's Ark, I asked "So God killed everything on earth, except the creatures Noah saved?  He flooded the whole Earth?"
+When the scientists and magicians approached me about the letter you're reading now, I asked if I could visit you instead. I had a whole plan. I'd grab some mulch pieces from the holly bush area and throw them at the window over your computer until you started to come out back. I'd hide, a little, over near the trees along the neighbors' yard. I think you'd recognize me. I'd hug you, and give you a kiss on your head. Some of what I have to say won't be easy to hear. But I have love for you that you don't have for yourself. They tell me that complicates matters greatly, so this letter will have to do. I think I'll have it delivered a couple days after Jesse gets his silver saxophone.
 
-"What did they do that was so bad?"
+You already know you shouldn't lie anymore; that you're no good at it. I doubt hearing it from me is going to stop you. Deceiving people is also lying, by the way, whatever utterances escape your lips (or don't). Let's just call that our prelude.
 
-It was not a conversation the Sunday School teachers welcomed.  My takeaway was: this is a ruse.  I got them!  I was probably not yet ten years old.
+The easiest place to really begin is with anger. You probably think you are not an angry person because you don't yell at people. Someone explained to me, when I was a lot older than you, that _unmet expectations create resentment_ and I realized I resented practically everybody I knew. Us included—maybe us most of all. You'll learn enough from the pain you have coming in your life without adding careless expectations to it. Don't forget. I know you won't because you'll read this a thousand times. I remember making a lot of mistakes, but never shying away from a difficult truth.
 
-Becoming a teenager, this (non-)belief deepened.  I saw the levers of fear and control, and ignored everything else.
+And it gets harder, because I know you have a lot of expectations about yourself, the life you want to lead, and the results you want to get from it. As you're reading this, I know you got the idea from somewhere that life was basically going to deliver what you want, when you wanted it (more or less)—sure, you might have to work to earn certain things, and there will be setbacks, but the outcomes are assured. I want you to think very carefully about where you got this idea, before you realize you imagined it. Not only is it not true, it's untrue and unhelpful to anyone. There aren't any assured outcomes. And look, if I can send you a letter through time, I'm sure you'll put that together in short order.
 
-## Came To Believe
+But the important reasons for that aren't something you need to work out intellectually. I know that you understand that parts of how people are with each other are a mystery to you. Ideas are definitely easier, and every once in a while, you can do something with those ideas that other people like. Even I still need pats on the head. It doesn't feel good to you to experiment and fail when navigating people's feelings, including your own. So you isolate and distract. You'll be playing video games for decades. When you're not isolating, you enjoy a smart-ass joke. There is a lot of ambient cruelty—what's the harm in finding someone to laugh with along the way? The problem is that you know it's cruel and that it's not right, but you like the other outcomes less.
 
+I know sometimes you feel bad, but can't explain why. This cruelty is a part of it, your cruelty. It won't go away, but that's OK because you can learn to use it for the good of others. There is a part of you that does care about others pretty deeply. I know; I lived it. It saved our life in the end. I'm going to share some of what I learned from that with you. And I need to tell you what we came to believe.
 
+Because you are pretty deeply self-centered, you feel that when you don't have assignments from Jane or school that you can just do whatever. The self-centeredness tells you that what's important is your pleasure within what Thomas Merton would call the natural order. Some of the ideas you have about money and success seem correct, but I think you already know its relationship to happiness is far from straightforward. Also, I'm not judging you or the video games—I played some the day I wrote you this letter! (If I told you how good Zelda gets, you wouldn't believe me.) What I am suggesting to you is that I have located a name for the feeling when you find that you've been playing them for hours on end, did not achieve your play goals (or never bothered to form any beyond wasting time), and feel like the inside of you is a slimy sewer. The feeling is called self-pity, and it's one of the nasty ones. I know you hate it, and the good news is you can get rid of it, even if it's difficult.
+
+The principal difficulty there is forming a new basis for life on a foundation that may not interest you at all: spirituality and faith. I know you still remember the Noah's Ark episode[^1]. You might have recently seen a "repentance only in the blood of Christ" billboard on the way to west Knoxville or a _God Hates Fags_ sign any number of places. I've told many people about the embarrassment about your smart-ass comment regarding getting saved, and that not being the butt of a joke is also a factor. I beg you: _don't get distracted by what others are saying about God, and pursue your own relationship._ By this time it's clear to you that people have inherent worth and dignity. Allie's faith started with a minister's [disbelief that a loving God would damn any of his creatures to hell](https://www.uua.org/lifespan/curricula/grace/session3/115166.shtml). A discussion might illuminate that it's possible the only hell is the one we create for each other here on Earth with our fears, insecurities, and defects of character. Many faiths align when it comes to the power of acceptance and love of those willing to grow along spiritual lines. If you'd like to get started practically, I know I enjoyed [The Seven Storey Mountain](https://merton.org/ITMS/Seasonal/15/15-1Maltis.pdf) very much, and I don't think you are too young for it to hit home.
+
+There is a tremendous beauty in the book, and you'll also see a young man familiar with the world wrestle directly with how to live, coming ultimately to the conclusion that the only thing that really works is to put others first. And that means *really* putting them first, not just doing something for them, hoping that they'll reciprocate. You can work out for yourself what happens if they don't based on where we started this letter. Resenting the people you want to help is no way to go through life. I can give you the solution; give freely. I suspect you'll try another path first. Just don't forget that I already told you the answer.
+
+It turns out I couldn't really give freely without faith. Something about me always got mixed up in it. So faith was the way. I didn't realize how much energy I was putting into justifying doing the wrong thing. There are a lot of paths to faith that don't have anything to do with hatred or fear, and it's OK to turn away. As long as you recognize that those are creatures of God also, who can be cruel, dishonest, fearful, and all the rest, just the same as you can be.
+
+You can't do it alone, either. You're already dealing with plenty of highly emotional situations, but I don't think you'd fight me too hard on a claim you weren't very sophisticated about it. I bet, after you find out you can basically talk to someone (after twenty minutes or so) you feel like you could tell them anything, and what could be the harm? Even if it is good to be trusting, _trust is belief plus vulnerability_. You don't have a proper sense of how vulnerable you are to people, so that makes you a little erratic. And the lying makes it a thousand times worse, all of it. And you aren't even paying attention to how vulnerable they are to you. As your sons would say, you have to lock in. The good news is the guidance here is really simple: _take one step_, and if you can't figure out how big to make it, make it a little smaller and mention the next one.
+
+All in all, you've lived a life worth being tremendously grateful for. You know how hard it is to send a letter through time? And I picked you to get one, so don't blow it. You learn eventually that _gratitude is the antidote for self-pity_ so try thinking about how thankful you are, and to whom, a little more often. And don't be afraid to share, it helps create the kind of healthy relationships that you're looking for.
+
+I put this last so you have the best chance to remember it. We're reckless. Remember that your life is not only yours, that it ripples out. Even if you just started practicing thinking about how your actions would affect others, I think the world would be better off.
+
+Maybe we will meet up sometime. Stranger things have happened. Till then.
+
+Love you,
+
+Jim
+
+[^1]: I'm probably eight years old in Sunday School, presented with the story of Noah's Ark along with the coloring page, I asked "So God killed everything on earth, except the creatures Noah saved? He flooded the whole Earth? What did they do that was so bad?" When they answered like an average adult and wanted to change the subject, I was certain I'd cracked the case of sham religion. This is what Jane and Alanson were dealing with. I think this was around the time I rode the church bus to the end of the line, just to ride it. No one knew where I was.
